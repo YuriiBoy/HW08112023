@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyQueue", "MyQueue\MyQueue.vcxproj", "{76401B64-8C8E-458D-9205-61875E2128CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BE8B418B-F206-4A22-94CC-B927EFE2D051}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76401B64-8C8E-458D-9205-61875E2128CF}.Debug|x64.ActiveCfg = Debug|x64
+		{76401B64-8C8E-458D-9205-61875E2128CF}.Debug|x64.Build.0 = Debug|x64
+		{76401B64-8C8E-458D-9205-61875E2128CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{76401B64-8C8E-458D-9205-61875E2128CF}.Debug|x86.Build.0 = Debug|Win32
+		{76401B64-8C8E-458D-9205-61875E2128CF}.Release|x64.ActiveCfg = Release|x64
+		{76401B64-8C8E-458D-9205-61875E2128CF}.Release|x64.Build.0 = Release|x64
+		{76401B64-8C8E-458D-9205-61875E2128CF}.Release|x86.ActiveCfg = Release|Win32
+		{76401B64-8C8E-458D-9205-61875E2128CF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76943C1B-1DA1-4960-927F-DBBABE1B8A8C}
+	EndGlobalSection
+EndGlobal
